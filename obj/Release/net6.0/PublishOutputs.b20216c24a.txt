@@ -1,0 +1,7 @@
+D:\edumedia\proedu\edumedia.uz\obj\Release\net6.0\PubTmp\Out\edumedia.uz.exe
+D:\edumedia\proedu\edumedia.uz\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\edumedia\proedu\edumedia.uz\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\edumedia\proedu\edumedia.uz\obj\Release\net6.0\PubTmp\Out\edumedia.uz.dll
+D:\edumedia\proedu\edumedia.uz\obj\Release\net6.0\PubTmp\Out\edumedia.uz.deps.json
+D:\edumedia\proedu\edumedia.uz\obj\Release\net6.0\PubTmp\Out\edumedia.uz.runtimeconfig.json
+D:\edumedia\proedu\edumedia.uz\obj\Release\net6.0\PubTmp\Out\edumedia.uz.pdb

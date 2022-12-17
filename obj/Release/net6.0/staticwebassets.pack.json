@@ -1,0 +1,457 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\edumedia.uz.bundle.scp.css",
+      "PackagePath": "staticwebassets\\edumedia.uz.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\googlefonts\\gfonts.css",
+      "PackagePath": "staticwebassets\\googlefonts\\gfonts.css"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\about-bg.jpg",
+      "PackagePath": "staticwebassets\\imgs\\about-bg.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\imgs\\apple-touch-icon.png"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\favicon.png",
+      "PackagePath": "staticwebassets\\imgs\\favicon.png"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\imgs\\gallery\\1.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\imgs\\gallery\\2.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\imgs\\gallery\\3.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\imgs\\gallery\\4.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\gallery\\5.jpg",
+      "PackagePath": "staticwebassets\\imgs\\gallery\\5.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\gallery\\6.jpg",
+      "PackagePath": "staticwebassets\\imgs\\gallery\\6.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\gallery\\7.jpg",
+      "PackagePath": "staticwebassets\\imgs\\gallery\\7.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\gallery\\8.jpg",
+      "PackagePath": "staticwebassets\\imgs\\gallery\\8.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\imgs\\hero-bg.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\hotels\\1.jpg",
+      "PackagePath": "staticwebassets\\imgs\\hotels\\1.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\hotels\\2.jpg",
+      "PackagePath": "staticwebassets\\imgs\\hotels\\2.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\hotels\\3.jpg",
+      "PackagePath": "staticwebassets\\imgs\\hotels\\3.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\ilec3.png",
+      "PackagePath": "staticwebassets\\imgs\\ilec3.png"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\logo.png",
+      "PackagePath": "staticwebassets\\imgs\\logo.png"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\speakers\\1.jpg",
+      "PackagePath": "staticwebassets\\imgs\\speakers\\1.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\speakers\\2.jpg",
+      "PackagePath": "staticwebassets\\imgs\\speakers\\2.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\speakers\\3.jpg",
+      "PackagePath": "staticwebassets\\imgs\\speakers\\3.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\speakers\\4.jpg",
+      "PackagePath": "staticwebassets\\imgs\\speakers\\4.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\speakers\\5.jpg",
+      "PackagePath": "staticwebassets\\imgs\\speakers\\5.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\speakers\\6.jpg",
+      "PackagePath": "staticwebassets\\imgs\\speakers\\6.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\speakers\\bizpage-preview.png",
+      "PackagePath": "staticwebassets\\imgs\\speakers\\bizpage-preview.png"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\subscribe-bg.jpg",
+      "PackagePath": "staticwebassets\\imgs\\subscribe-bg.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\supporters\\1.png",
+      "PackagePath": "staticwebassets\\imgs\\supporters\\1.png"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\supporters\\2.png",
+      "PackagePath": "staticwebassets\\imgs\\supporters\\2.png"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\supporters\\3.png",
+      "PackagePath": "staticwebassets\\imgs\\supporters\\3.png"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\supporters\\4.png",
+      "PackagePath": "staticwebassets\\imgs\\supporters\\4.png"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\supporters\\5.png",
+      "PackagePath": "staticwebassets\\imgs\\supporters\\5.png"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\supporters\\6.png",
+      "PackagePath": "staticwebassets\\imgs\\supporters\\6.png"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\supporters\\7.png",
+      "PackagePath": "staticwebassets\\imgs\\supporters\\7.png"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\supporters\\8.png",
+      "PackagePath": "staticwebassets\\imgs\\supporters\\8.png"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\venue-gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\imgs\\venue-gallery\\1.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\venue-gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\imgs\\venue-gallery\\2.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\venue-gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\imgs\\venue-gallery\\3.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\venue-gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\imgs\\venue-gallery\\4.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\venue-gallery\\5.jpg",
+      "PackagePath": "staticwebassets\\imgs\\venue-gallery\\5.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\venue-gallery\\6.jpg",
+      "PackagePath": "staticwebassets\\imgs\\venue-gallery\\6.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\venue-gallery\\7.jpg",
+      "PackagePath": "staticwebassets\\imgs\\venue-gallery\\7.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\venue-gallery\\8.jpg",
+      "PackagePath": "staticwebassets\\imgs\\venue-gallery\\8.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\imgs\\venue-info-bg.jpg",
+      "PackagePath": "staticwebassets\\imgs\\venue-info-bg.jpg"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\lib\\aos\\aos.css"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\lib\\aos\\aos.js"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap-icons\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\index.html"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\lib\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\glightbox\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\lib\\glightbox\\css\\plyr.css"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\glightbox\\css\\plyr.min.css",
+      "PackagePath": "staticwebassets\\lib\\glightbox\\css\\plyr.min.css"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\lib\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\lib\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "D:\\edumedia\\proedu\\edumedia.uz\\wwwroot\\lib\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.edumedia.uz.props",
+      "PackagePath": "build\\edumedia.uz.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.edumedia.uz.props",
+      "PackagePath": "buildMultiTargeting\\edumedia.uz.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.edumedia.uz.props",
+      "PackagePath": "buildTransitive\\edumedia.uz.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.edumedia.uz.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

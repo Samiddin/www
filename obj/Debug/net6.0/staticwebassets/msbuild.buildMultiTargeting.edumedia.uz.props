@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\edumedia.uz.props" />
+</Project>
